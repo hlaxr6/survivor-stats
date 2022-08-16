@@ -1,0 +1,674 @@
+ID,name,age,gender,state,season,place,days_survived,votes_against,place_percent,time_playing,total_times_played,players_in_season,season_number,is_censored
+0116,Sonja Christopher,63,Female,CA,Borneo,16,3,4,0.0625,1,1,16,1,0
+0115,B.B. Andersen,64,Male,KS,Borneo,15,6,6,0.125,1,1,16,1,0
+0114,Stacey Stillman,27,Female,CA,Borneo,14,9,6,0.1875,1,1,16,1,0
+0113,Ramona Gray,29,Female,NJ,Borneo,13,12,6,0.25,1,1,16,1,0
+0112,Dirk Been,23,Male,WI,Borneo,12,15,4,0.3125,1,1,16,1,0
+0111,Joel Klug,27,Male,AR,Borneo,11,18,4,0.375,1,1,16,1,0
+0110,Gretchen Cordy,38,Female,TN,Borneo,10,21,4,0.4375,1,1,16,1,0
+0109,Greg Buis,24,Male,CO,Borneo,9,24,6,0.5,1,1,16,1,0
+0108,Jenna Lewis,22,Female,NH,Borneo,8,27,11,0.5625,1,2,16,1,0
+0107,Gervase Peterson,30,Male,NJ,Borneo,7,30,6,0.625,1,2,16,1,0
+0106,Colleen Haskell,23,Female,FL,Borneo,6,33,7,0.6875,1,1,16,1,0
+0105,Sean Kenniff,30,Male,NY,Borneo,5,36,9,0.75,1,1,16,1,0
+0104,Susan Hawk,38,Female,WI,Borneo,4,37,7,0.8125,1,2,16,1,0
+0103,Rudy Boesch,72,Male,VA,Borneo,3,38,8,0.875,1,2,16,1,0
+0102,Kelly Wiglesworth,22,Female,NV,Borneo,2,39,0,0.9375,1,2,16,1,1
+0101,Richard Hatch,39,Male,RI,Borneo,1,39,6,1.0,1,2,16,1,1
+0216,Debb Eaton,45,Female,NH,The Australian Outback,16,3,7,0.0625,1,1,16,2,0
+0215,Kel Gleason,32,Male,TX,The Australian Outback,15,6,7,0.125,1,1,16,2,0
+0214,Maralyn Hershey,51,Female,VA,The Australian Outback,14,9,5,0.1875,1,1,16,2,0
+0213,Mitchell Olson,23,Male,NJ,The Australian Outback,13,12,6,0.25,1,1,16,2,0
+0212,Kimmi Kappenberg,27,Female,NY,The Australian Outback,12,15,6,0.3125,1,2,16,2,0
+0211,Michael Skupin,38,Male,MI,The Australian Outback,11,17,0,0.375,1,2,16,2,1
+0210,Jeff Varner,34,Male,NY,The Australian Outback,10,21,11,0.4375,1,3,16,2,0
+0209,Alicia Calaway,32,Female,NY,The Australian Outback,9,24,5,0.5,1,2,16,2,0
+0208,Jerri Manthey,30,Female,CA,The Australian Outback,8,27,12,0.5625,1,3,16,2,0
+0207,Nick Brown,23,Male,WA,The Australian Outback,7,30,4,0.625,1,1,16,2,0
+0206,Amber Brkich,22,Female,PA,The Australian Outback,6,33,6,0.6875,1,2,16,2,0
+0205,Rodger Bingham,53,Male,KY,The Australian Outback,5,36,5,0.75,1,1,16,2,0
+0204,Elisabeth Filarski,23,Female,MA,The Australian Outback,4,39,5,0.8125,1,1,16,2,0
+0203,Keith Famie,40,Male,MI,The Australian Outback,3,41,10,0.875,1,1,16,2,0
+0202,Colby Donaldson,26,Male,TX,The Australian Outback,2,42,9,0.9375,1,3,16,2,1
+0201,Tina Wesson,39,Female,TN,The Australian Outback,1,42,0,1.0,1,3,16,2,1
+0316,Diane Ogden,42,Female,NE,Africa,16,3,6,0.0625,1,1,16,3,0
+0315,Jessie Camacho,27,Female,FL,Africa,15,6,5,0.125,1,1,16,3,0
+0314,Carl Bilancione,46,Male,FL,Africa,14,9,7,0.1875,1,1,16,3,0
+0313,Linda Spencer,44,Female,MA,Africa,13,12,4,0.25,1,1,16,3,0
+0312,Silas Gaither,23,Male,CA,Africa,12,15,8,0.3125,1,1,16,3,0
+0311,Lindsey Richter,26,Female,OR,Africa,11,18,12,0.375,1,1,16,3,0
+0310,Clarence Black,24,Male,MI,Africa,10,21,12,0.4375,1,1,16,3,0
+0309,Kelly Goldsmith,22,Female,CA,Africa,9,24,5,0.5,1,1,16,3,0
+0308,Brandon Quinton,25,Male,TX,Africa,8,27,6,0.5625,1,1,16,3,0
+0307,Frank Garrison,43,Male,NY,Africa,7,30,9,0.625,1,1,16,3,0
+0306,Kim Powers,29,Female,PA,Africa,6,33,4,0.6875,1,1,16,3,0
+0305,Teresa Cooper,42,Female,GA,Africa,5,36,4,0.75,1,1,16,3,0
+0304,Tom Buchanan,45,Male,VA,Africa,4,37,9,0.8125,1,2,16,3,0
+0303,Lex van den Berghe,38,Male,CA,Africa,3,38,10,0.875,1,2,16,3,0
+0302,Kim Johnson,56,Female,NY,Africa,2,39,1,0.9375,1,1,16,3,1
+0301,Ethan Zohn,27,Male,NY,Africa,1,39,0,1.0,1,2,16,3,1
+0416,Peter Harkey,44,Male,MA,Marquesas,16,3,5,0.0625,1,1,16,4,0
+0415,Patricia Jackson,49,Female,SC,Marquesas,15,6,5,0.125,1,1,16,4,0
+0414,Hunter Ellis,33,Male,CA,Marquesas,14,9,4,0.1875,1,1,16,4,0
+0413,Sarah Jones,24,Female,CA,Marquesas,13,12,11,0.25,1,1,16,4,0
+0412,Gabriel Cade,23,Male,CA,Marquesas,12,15,7,0.3125,1,1,16,4,0
+0411,Gina Crews,28,Female,FL,Marquesas,11,18,3,0.375,1,1,16,4,0
+0410,Rob Mariano,25,Male,MA,Marquesas,10,21,8,0.4375,1,4,16,4,0
+0409,John Carroll,36,Male,NE,Marquesas,9,24,8,0.5,1,1,16,4,0
+0408,Zoe Zanidakis,35,Female,ME,Marquesas,8,27,8,0.5625,1,1,16,4,0
+0407,Tammy Leitner,29,Female,AZ,Marquesas,7,30,5,0.625,1,1,16,4,0
+0406,Robert DeCanio,38,Male,NY,Marquesas,6,33,6,0.6875,1,1,16,4,0
+0405,Sean Rector,30,Male,CA,Marquesas,5,36,7,0.75,1,1,16,4,0
+0404,Paschal English,56,Female,GA,Marquesas,4,37,0,0.8125,1,1,16,4,1
+0404,Kathy Vavrick-O'Brien,47,Male,VT,Marquesas,4,38,5,0.8125,1,2,16,4,0
+0402,Neleh Dennis,21,Female,UT,Marquesas,2,39,4,0.9375,1,1,16,4,1
+0401,Vecepia Towery,36,Female,CA,Marquesas,1,39,2,1.0,1,1,16,4,1
+0516,John Raymond,40,Male,LA,Thailand,16,3,6,0.0625,1,1,16,5,0
+0515,Tanya Vance,27,Female,TN,Thailand,15,6,5,0.125,1,1,16,5,0
+0514,Jed Hildebrand,25,Male,TX,Thailand,14,9,5,0.1875,1,1,16,5,0
+0513,Ghandia Johnson,33,Female,CO,Thailand,13,12,5,0.25,1,1,16,5,0
+0512,Stephanie Dill,29,Female,AR,Thailand,12,15,5,0.3125,1,1,16,5,0
+0511,Robb Zbacnik,23,Male,AZ,Thailand,11,18,5,0.375,1,1,16,5,0
+0510,Shii Ann Huang,28,Female,NY,Thailand,10,21,10,0.4375,1,2,16,5,0
+0509,Erin Collins,26,Female,TX,Thailand,9,24,3,0.5,1,1,16,5,0
+0508,Ken Stafford,30,Male,NY,Thailand,8,27,6,0.5625,1,1,16,5,0
+0507,Penny Ramsey,27,Female,TX,Thailand,7,30,5,0.625,1,1,16,5,0
+0506,Jake Billingsley,60,Male,TX,Thailand,6,33,7,0.6875,1,1,16,5,0
+0505,"Ted Rogers, Jr.",37,Male,NC,Thailand,5,36,7,0.75,1,1,16,5,0
+0504,Helen Glover,47,Female,RI,Thailand,4,37,5,0.8125,1,1,16,5,0
+0503,Jan Gentry,53,Female,FL,Thailand,3,38,5,0.875,1,1,16,5,0
+0502,Clay Jordan,46,Male,LA,Thailand,2,39,3,0.9375,1,1,16,5,1
+0501,Brian Heidik,34,Male,CA,Thailand,1,39,0,1.0,1,1,16,5,1
+0616,Ryan Aiken,23,Male,MD,The Amazon,16,3,4,0.0625,1,1,16,6,0
+0615,Janet Koth,46,Female,MO,The Amazon,15,6,5,0.125,1,1,16,6,0
+0614,Daniel Lue,26,Male,TX,The Amazon,14,9,7,0.1875,1,1,16,6,0
+0613,JoAnna Ward,31,Female,SC,The Amazon,13,12,4,0.25,1,1,16,6,0
+0612,Jeanne Hebert,40,Female,MA,The Amazon,12,15,5,0.3125,1,1,16,6,0
+0611,Shawna Mitchell,23,Female,CA,The Amazon,11,18,6,0.375,1,1,16,6,0
+0610,Roger Sexton,56,Male,CA,The Amazon,10,21,11,0.4375,1,1,16,6,0
+0609,Dave Johnson,23,Male,CA,The Amazon,9,24,8,0.5,1,1,16,6,0
+0608,Deena Bennett,35,Female,CA,The Amazon,8,27,6,0.5625,1,1,16,6,0
+0607,Alex Bell,32,Male,CA,The Amazon,7,30,6,0.625,1,1,16,6,0
+0606,Christy Smith,24,Female,CO,The Amazon,6,33,9,0.6875,1,1,16,6,0
+0605,Heidi Strobel,24,Female,MO,The Amazon,5,36,3,0.75,1,1,16,6,0
+0604,Butch Lockley,50,Male,IL,The Amazon,4,37,5,0.8125,1,1,16,6,0
+0603,Rob Cesternino,24,Male,NY,The Amazon,3,38,4,0.875,1,2,16,6,0
+0602,Matthew von Ertfelda,33,Male,DC,The Amazon,2,39,6,0.9375,1,1,16,6,1
+0601,Jenna Morasca,21,Female,PA,The Amazon,1,39,3,1.0,1,2,16,6,1
+0716,Nicole Delma,24,Female,CA,Pearl Islands,16,3,7,0.0625,1,1,16,7,0
+0715,Ryan Shoulders,23,Male,TN,Pearl Islands,15,6,6,0.125,1,1,16,7,0
+0714,Michelle Tesauro,22,Female,DC,Pearl Islands,14,15,6,0.1875,1,1,16,7,0
+0713,Trish Dunn,42,Female,MD,Pearl Islands,13,18,4,0.25,1,1,16,7,0
+0712,Shawn Cohen,28,Male,CA,Pearl Islands,12,19,5,0.3125,1,1,16,7,0
+0711,Osten Taylor,27,Male,MA,Pearl Islands,11,19,2,0.375,1,1,16,7,1
+0710,Andrew Savage,39,Male,IL,Pearl Islands,10,21,6,0.4375,1,2,16,7,0
+0709,Ryan Opray,30,Male,CA,Pearl Islands,9,24,8,0.5,1,1,16,7,0
+0708,Rupert Boneham,39,Male,IN,Pearl Islands,8,27,7,0.5625,1,4,16,7,0
+0707,Tijuana Bradley,26,Female,MO,Pearl Islands,7,30,5,0.625,1,1,16,7,0
+0706,Christa Hastie,24,Female,CA,Pearl Islands,6,33,7,0.6875,1,1,16,7,0
+0705,Burton Roberts,31,Male,CA,Pearl Islands,5,36,10,0.75,1,1,16,7,0
+0704,Darrah Johnson,22,Female,MS,Pearl Islands,4,37,6,0.8125,1,1,16,7,0
+0703,Jon Dalton,29,Male,CA,Pearl Islands,3,38,7,0.875,1,2,16,7,0
+0702,Lillian Morris,51,Female,OH,Pearl Islands,2,39,10,0.9375,1,1,16,7,1
+0701,Sandra Diaz-Twine,29,Female,WA,Pearl Islands,1,39,0,1.0,1,3,16,7,1
+0818,Tina Wesson,42,Female,TN,All-Stars,18,3,4,0.05555555555555558,2,3,18,8,0
+0817,Rudy Boesch,75,Male,VA,All-Stars,17,6,3,0.11111111111111116,2,2,18,8,0
+0816,Jenna Morasca,22,Female,PA,All-Stars,16,9,0,0.16666666666666663,2,2,18,8,1
+0815,Rob Cesternino,25,Male,NY,All-Stars,15,12,5,0.2222222222222222,2,2,18,8,0
+0814,Richard Hatch,42,Male,RI,All-Stars,14,15,6,0.2777777777777778,2,2,18,8,0
+0813,Susan Hawk,42,Female,NV,All-Stars,13,17,0,0.33333333333333337,2,2,18,8,1
+0812,Colby Donaldson,29,Male,TX,All-Stars,12,19,4,0.38888888888888884,2,3,18,8,0
+0811,Ethan Zohn,30,Male,NY,All-Stars,11,21,6,0.4444444444444444,2,2,18,8,0
+0810,Jerri Manthey,33,Female,CA,All-Stars,10,24,7,0.5,2,3,18,8,0
+0809,Lex van den Berghe,40,Male,CA,All-Stars,9,27,7,0.5555555555555556,2,2,18,8,0
+0808,Kathy Vavrick-O'Brien,49,Female,VT,All-Stars,8,28,6,0.6111111111111112,2,2,18,8,0
+0807,Alicia Calaway,35,Female,NY,All-Stars,7,30,7,0.6666666666666667,2,2,18,8,0
+0806,Shii Ann Huang,29,Female,NY,All-Stars,6,33,5,0.7222222222222222,2,2,18,8,0
+0805,Tom Buchanan,48,Male,VA,All-Stars,5,36,4,0.7777777777777778,2,2,18,8,0
+0804,Rupert Boneham,39,Male,IN,All-Stars,4,37,4,0.8333333333333334,2,4,18,8,0
+0803,Jenna Lewis,26,Female,CA,All-Stars,3,38,4,0.8888888888888888,2,2,18,8,0
+0802,Rob Mariano,27,Male,MA,All-Stars,2,39,1,0.9444444444444444,2,4,18,8,1
+0801,Amber Brkich,25,Female,PA,All-Stars,1,39,6,1.0,2,2,18,8,1
+0918,Brook Geraghty,27,Male,MA,Vanuatu,18,3,5,0.05555555555555558,1,1,18,9,0
+0917,Dolly Neely,25,Female,PA,Vanuatu,17,6,5,0.11111111111111116,1,1,18,9,0
+0916,John Palyok,31,Male,CA,Vanuatu,16,7,5,0.16666666666666663,1,1,18,9,0
+0915,Mia Galeotalanza,29,Female,MA,Vanuatu,15,7,5,0.2222222222222222,1,1,18,9,0
+0914,Brady Finta,33,Male,CA,Vanuatu,14,10,6,0.2777777777777778,1,1,18,9,0
+0913,Travis Sampson,33,Male,TN,Vanuatu,13,12,6,0.33333333333333337,1,1,18,9,0
+0912,Lisa Keiffer,44,Female,LA,Vanuatu,12,15,4,0.38888888888888884,1,1,18,9,0
+0911,John Kenney,22,Male,CA,Vanuatu,11,18,5,0.4444444444444444,1,1,18,9,0
+0910,Rory Freeman,35,Male,IA,Vanuatu,10,21,14,0.5,1,1,18,9,0
+0909,Lea Masters,40,Male,SC,Vanuatu,9,24,7,0.5555555555555556,1,1,18,9,0
+0908,Chad Crittenden,34,Male,CA,Vanuatu,8,27,7,0.6111111111111112,1,1,18,9,0
+0907,Leann Slaby,35,Female,WI,Vanuatu,7,30,8,0.6666666666666667,1,1,18,9,0
+0906,Ami Cusack,31,Female,CO,Vanuatu,6,33,8,0.7222222222222222,1,2,18,9,0
+0905,Julie Berry,23,Female,ME,Vanuatu,5,36,4,0.7777777777777778,1,1,18,9,0
+0904,Eliza Orlins,21,Female,NY,Vanuatu,4,37,9,0.8333333333333334,1,2,18,9,0
+0903,Scout Cloud Lee,59,Female,OK,Vanuatu,3,38,3,0.8888888888888888,1,1,18,9,0
+0902,Twila Tanner,41,Female,MO,Vanuatu,2,39,6,0.9444444444444444,1,1,18,9,1
+0901,Chris Daugherty,33,Male,OH,Vanuatu,1,39,3,1.0,1,1,18,9,1
+1020,Jonathan Libby,23,Male,TX,Palau,20,2,0,0.050000000000000044,1,1,20,10,1
+1019,Wanda Shirk,55,Female,PA,Palau,19,2,0,0.09999999999999998,1,1,20,10,1
+1018,Jolanda Jones,38,Female,TX,Palau,18,3,6,0.15000000000000002,1,1,20,10,0
+1017,Ashlee Ashby,22,Female,SC,Palau,17,6,6,0.19999999999999996,1,1,20,10,0
+1016,Jeff Wilson,21,Male,CA,Palau,16,8,5,0.25,1,1,20,10,0
+1015,Kim Mullen,25,Female,OH,Palau,15,11,8,0.30000000000000004,1,1,20,10,0
+1014,Willard Smith,56,Male,WA,Palau,14,12,8,0.35,1,1,20,10,0
+1013,Angie Jakusz,24,Female,LA,Palau,13,12,8,0.4,1,1,20,10,0
+1012,James Miller,33,Male,AL,Palau,12,15,7,0.44999999999999996,1,1,20,10,0
+1011,Ibrehem Rahman,27,Male,AL,Palau,11,18,4,0.5,1,1,20,10,0
+1010,Bobby Jon Drinkard,27,Male,CA,Palau,10,21,2,0.55,1,2,20,10,1
+1009,Coby Archa,32,Male,TX,Palau,9,24,7,0.6,1,1,20,10,0
+1008,Janu Tornell,39,Female,NV,Palau,8,27,1,0.65,1,1,20,10,1
+1007,Stephenie LaGrossa,24,Female,NJ,Palau,7,30,8,0.7,1,3,20,10,0
+1006,Gregg Carey,27,Male,IL,Palau,6,33,4,0.75,1,1,20,10,0
+1005,Caryn Groedel,46,Female,OH,Palau,5,36,7,0.8,1,1,20,10,0
+1004,Jenn Lyon,32,Female,CA,Palau,4,37,3,0.85,1,1,20,10,0
+1003,Ian Rosenberger,23,Male,PA,Palau,3,38,5,0.9,1,1,20,10,0
+1002,Katie Gallagher,29,Female,CA,Palau,2,39,1,0.95,1,1,20,10,1
+1001,Tom Westman,40,Male,NY,Palau,1,39,0,1.0,1,2,20,10,1
+1118,Jim Lynch,63,Male,CO,Guatemala,18,3,8,0.05555555555555558,1,1,18,11,0
+1117,Morgan McDevitt,21,Female,IL,Guatemala,17,6,8,0.11111111111111116,1,1,18,11,0
+1116,Brianna Varela,21,Female,WA,Guatemala,16,8,7,0.16666666666666663,1,1,18,11,0
+1115,Brooke Struck,25,Female,OR,Guatemala,15,11,5,0.2222222222222222,1,1,18,11,0
+1114,Blake Towsley,24,Male,TX,Guatemala,14,14,5,0.2777777777777778,1,1,18,11,0
+1113,Margaret Bobonich,43,Female,OH,Guatemala,13,15,7,0.33333333333333337,1,1,18,11,0
+1112,Brian Corridan,22,Male,NY,Guatemala,12,15,7,0.38888888888888884,1,1,18,11,0
+1111,Amy O'Hara,39,Female,MA,Guatemala,11,18,4,0.4444444444444444,1,1,18,11,0
+1110,Brandon Bellinger,22,Male,KS,Guatemala,10,21,6,0.5,1,1,18,11,0
+1109,Bobby Jon Drinkard,28,Male,CA,Guatemala,9,24,8,0.5555555555555556,2,2,18,11,0
+1108,Jamie Newton,24,Male,CA,Guatemala,8,27,10,0.6111111111111112,1,1,18,11,0
+1107,Gary Hogeboom,46,Male,MI,Guatemala,7,30,8,0.6666666666666667,1,1,18,11,0
+1106,Judd Sergeant,34,Male,NJ,Guatemala,6,33,5,0.7222222222222222,1,1,18,11,0
+1105,Cindy Hall,31,Female,FL,Guatemala,5,36,6,0.7777777777777778,1,1,18,11,0
+1104,Lydia Morales,42,Female,WA,Guatemala,4,37,10,0.8333333333333334,1,1,18,11,0
+1103,Rafe Judkins,22,Male,PA,Guatemala,3,38,2,0.8888888888888888,1,1,18,11,0
+1102,Stephenie LaGrossa,25,Female,NJ,Guatemala,2,39,2,0.9444444444444444,2,3,18,11,1
+1101,Danni Boatwright,30,Female,KS,Guatemala,1,39,1,1.0,1,1,18,11,1
+1216,Tina Scheer,44,Female,WI,Panama,16,3,3,0.0625,1,1,16,12,0
+1215,Melinda Hyder,32,Female,TN,Panama,15,6,5,0.125,1,1,16,12,0
+1214,Misty Giles,24,Female,TX,Panama,14,8,5,0.1875,1,1,16,12,0
+1213,Ruth-Marie Milliman,48,Female,SC,Panama,13,11,6,0.25,1,1,16,12,0
+1212,Bobby Mason,32,Male,CA,Panama,12,14,3,0.3125,1,1,16,12,0
+1211,Dan Barry,51,Male,MA,Panama,11,15,3,0.375,1,1,16,12,0
+1210,Nick Stanbury,25,Male,AZ,Panama,10,18,6,0.4375,1,1,16,12,0
+1209,Austin Carty,24,Male,NC,Panama,9,21,7,0.5,1,1,16,12,0
+1208,Sally Schumann,27,Female,IL,Panama,8,24,8,0.5625,1,1,16,12,0
+1207,Bruce Kanegai,57,Male,CA,Panama,7,25,2,0.625,1,1,16,12,1
+1206,Courtney Marit,31,Female,CA,Panama,6,30,4,0.6875,1,1,16,12,0
+1205,Shane Powers,34,Male,CA,Panama,5,33,9,0.75,1,1,16,12,0
+1204,Cirie Fields,35,Female,SC,Panama,4,36,3,0.8125,1,4,16,12,0
+1203,Terry Deitz,46,Male,CT,Panama,3,38,1,0.875,1,2,16,12,0
+1202,Danielle DiLorenzo,24,Female,FL,Panama,2,39,4,0.9375,1,2,16,12,1
+1201,Aras Baskauskas,24,Male,CA,Panama,1,39,9,1.0,1,2,16,12,1
+1320,Sekou Bunch,45,Male,CA,Cook Islands,20,3,3,0.050000000000000044,1,1,20,13,0
+1319,Billy Garcia,36,Male,NY,Cook Islands,19,6,4,0.09999999999999998,1,1,20,13,0
+1318,Cecilia Mansilla,29,Female,CA,Cook Islands,18,8,5,0.15000000000000002,1,1,20,13,0
+1317,J.P. Calderon,30,Male,CA,Cook Islands,17,11,7,0.19999999999999996,1,1,20,13,0
+1316,Stephannie Favor,35,Female,SC,Cook Islands,16,14,9,0.25,1,1,20,13,0
+1315,Cao Boi Bui,42,Male,VA,Cook Islands,15,15,6,0.30000000000000004,1,1,20,13,0
+1314,Cristina Coria,35,Female,CA,Cook Islands,14,15,5,0.35,1,1,20,13,0
+1313,Jessica Smith,27,Female,CA,Cook Islands,13,18,6,0.4,1,1,20,13,0
+1312,Brad Virata,29,Male,CA,Cook Islands,12,21,7,0.44999999999999996,1,1,20,13,0
+1311,Rebecca Borman,34,Female,NY,Cook Islands,11,24,6,0.5,1,1,20,13,0
+1310,Jenny Guzon-Bae,36,Female,IL,Cook Islands,10,24,6,0.55,1,1,20,13,0
+1309,Nate Gonzalez,26,Male,CA,Cook Islands,9,27,5,0.6,1,1,20,13,0
+1308,Candice Woodcock,23,Female,DC,Cook Islands,8,30,6,0.65,1,2,20,13,0
+1307,Jonathan Penner,44,Male,CA,Cook Islands,7,33,15,0.7,1,3,20,13,0
+1306,Parvati Shallow,23,Female,CA,Cook Islands,6,36,4,0.75,1,3,20,13,0
+1305,Adam Gentry,28,Male,CA,Cook Islands,5,37,5,0.8,1,1,20,13,0
+1304,Sundra Oakley,31,Female,CA,Cook Islands,4,38,6,0.85,1,1,20,13,0
+1303,Becky Lee,28,Female,DC,Cook Islands,3,39,5,0.9,1,1,20,13,1
+1302,Ozzy Lusth,25,Male,CA,Cook Islands,2,39,1,0.95,1,4,20,13,1
+1301,Yul Kwon,31,Male,CA,Cook Islands,1,39,5,1.0,1,1,20,13,1
+1419,Jessica deBen,27,Female,CA,Fiji,19,3,6,0.052631578947368474,1,1,19,14,0
+1418,Erica Durousseau,27,Female,LA,Fiji,18,6,6,0.10526315789473684,1,1,19,14,0
+1417,Sylvia Kwan,52,Female,CA,Fiji,17,8,6,0.1578947368421053,1,1,19,14,0
+1416,Gary Stritesky,55,Male,MN,Fiji,16,10,0,0.21052631578947367,1,1,19,14,1
+1415,Liliana Gomez,25,Female,CA,Fiji,15,11,6,0.26315789473684215,1,1,19,14,0
+1414,Rita Verreos,38,Female,TX,Fiji,14,14,6,0.3157894736842105,1,1,19,14,0
+1413,Anthony Robinson,32,Male,CA,Fiji,13,16,10,0.368421052631579,1,1,19,14,0
+1412,Rocky Reid,28,Male,CA,Fiji,12,19,5,0.42105263157894735,1,1,19,14,0
+1411,Lisi Linares,36,Female,CA,Fiji,11,21,7,0.4736842105263158,1,1,19,14,0
+1410,Michelle Yi,23,Female,OH,Fiji,10,24,3,0.5263157894736843,1,1,19,14,0
+1409,Edgardo Rivera,28,Male,FL,Fiji,9,27,5,0.5789473684210527,1,1,19,14,0
+1408,Mookie Lee,25,Male,IL,Fiji,8,30,6,0.631578947368421,1,1,19,14,0
+1407,Alex Angarita,28,Male,CA,Fiji,7,33,9,0.6842105263157895,1,1,19,14,0
+1406,Stacy Kimball,27,Female,CO,Fiji,6,36,4,0.736842105263158,1,1,19,14,0
+1405,Boo Bernis,34,Male,LA,Fiji,5,37,5,0.7894736842105263,1,1,19,14,0
+1404,Yau-Man Chan,54,Male,CA,Fiji,4,38,9,0.8421052631578947,1,2,19,14,0
+1403,Cassandra Franklin,42,Female,CA,Fiji,3,39,5,0.8947368421052632,1,1,19,14,1
+1402,Dreamz Herd,25,Male,NC,Fiji,2,39,2,0.9473684210526316,1,1,19,14,1
+1401,Earl Cole,35,Male,CA,Fiji,1,39,1,1.0,1,1,19,14,1
+1516,Chicken Morris,47,Male,VA,China,16,3,5,0.0625,1,1,16,15,0
+1515,Ashley Massaro,28,Female,NY,China,15,6,8,0.125,1,1,16,15,0
+1514,Leslie Nease,38,Female,SC,China,14,9,6,0.1875,1,1,16,15,0
+1513,Dave Cruser,37,Male,CA,China,13,12,6,0.25,1,1,16,15,0
+1512,Aaron Reisberger,32,Male,CA,China,12,15,3,0.3125,1,1,16,15,0
+1511,Sherea Lloyd,26,Female,GA,China,11,18,6,0.375,1,1,16,15,0
+1510,Jaime Dugan,22,Female,SC,China,10,21,7,0.4375,1,1,16,15,0
+1509,Jean-Robert Bellande,36,Male,NV,China,9,24,12,0.5,1,1,16,15,0
+1508,Frosti Zernow,20,Male,IL,China,8,27,7,0.5625,1,1,16,15,0
+1507,James Clement,30,Male,LA,China,7,30,9,0.625,1,3,16,15,0
+1506,Erik Huffman,26,Male,TN,China,6,33,5,0.6875,1,1,16,15,0
+1505,Peih-Gee Law,29,Female,CA,China,5,36,8,0.75,1,2,16,15,0
+1504,Denise Martin,40,Female,MA,China,4,38,3,0.8125,1,1,16,15,0
+1503,Amanda Kimmel,22,Female,CA,China,3,39,0,0.875,1,3,16,15,1
+1502,Courtney Yates,26,Female,NY,China,2,39,0,0.9375,1,2,16,15,1
+1501,Todd Herzog,22,Male,UT,China,1,39,5,1.0,1,1,16,15,1
+1620,Jon Dalton,33,Male,CA,Micronesia,20,3,9,0.050000000000000044,2,2,20,16,0
+1619,Mary Sartain,29,Female,CA,Micronesia,19,6,6,0.09999999999999998,1,1,20,16,0
+1618,Yau-Man Chan,55,Male,CA,Micronesia,18,8,6,0.15000000000000002,2,2,20,16,0
+1617,Mikey Bortone,34,Male,CA,Micronesia,17,11,6,0.19999999999999996,1,1,20,16,0
+1616,Joel Anderson,32,Male,AZ,Micronesia,16,14,6,0.25,1,1,20,16,0
+1615,Jonathan Penner,45,Male,CA,Micronesia,15,15,0,0.30000000000000004,2,3,20,16,1
+1614,Chet Welch,48,Male,PA,Micronesia,14,17,12,0.35,1,1,20,16,0
+1613,Kathy Sleckman,45,Female,IL,Micronesia,13,19,0,0.4,1,1,20,16,1
+1612,Tracy Hughes-Wolf,43,Female,VA,Micronesia,12,20,7,0.44999999999999996,1,1,20,16,0
+1611,Ami Cusack,34,Female,CO,Micronesia,11,21,4,0.5,2,2,20,16,0
+1610,Eliza Orlins,25,Female,NY,Micronesia,10,24,8,0.55,2,2,20,16,0
+1609,Ozzy Lusth,26,Male,CA,Micronesia,9,27,9,0.6,2,4,20,16,0
+1608,Jason Siska,22,Male,IL,Micronesia,8,30,8,0.65,1,1,20,16,0
+1607,James Clement,30,Male,LA,Micronesia,7,31,3,0.7,2,3,20,16,1
+1606,Alexis Jones,24,Female,CA,Micronesia,6,33,2,0.75,1,1,20,16,0
+1605,Erik Reichenbach,22,Male,MI,Micronesia,5,36,7,0.8,1,2,20,16,0
+1604,Natalie Bolton,32,Female,CA,Micronesia,4,37,3,0.85,1,1,20,16,0
+1603,Cirie Fields,37,Female,CT,Micronesia,3,38,3,0.9,2,4,20,16,0
+1602,Amanda Kimmel,23,Female,CA,Micronesia,2,39,4,0.95,2,3,20,16,1
+1601,Parvati Shallow,25,Female,CA,Micronesia,1,39,4,1.0,2,3,20,16,1
+1718,Michelle Chase,24,Female,CA,Gabon,18,3,8,0.05555555555555558,1,1,18,17,0
+1717,Gillian Larson,61,Female,CA,Gabon,17,6,8,0.11111111111111116,1,1,18,17,0
+1716,Paloma Soto-Castillo,23,Female,CA,Gabon,16,9,7,0.16666666666666663,1,1,18,17,0
+1715,Jacquie Berg,25,Female,CA,Gabon,15,12,5,0.2222222222222222,1,1,18,17,0
+1714,G.C. Brown,25,Male,OR,Gabon,14,15,6,0.2777777777777778,1,1,18,17,0
+1713,Kelly Czarnecki,22,Female,IL,Gabon,13,18,8,0.33333333333333337,1,1,18,17,0
+1712,Ace Gordon,27,Male,FL,Gabon,12,21,5,0.38888888888888884,1,1,18,17,0
+1711,Dan Kay,32,Male,MA,Gabon,11,21,4,0.4444444444444444,1,1,18,17,0
+1710,Marcus Lehman,28,Male,GA,Gabon,10,24,3,0.5,1,1,18,17,0
+1709,Charlie Herschel,29,Male,NY,Gabon,9,27,5,0.5555555555555556,1,1,18,17,0
+1708,Randy Bailey,49,Male,MO,Gabon,8,30,5,0.6111111111111112,1,2,18,17,0
+1707,Corinne Kaplan,29,Female,CA,Gabon,7,33,4,0.6666666666666667,1,2,18,17,0
+1706,Crystal Cox,29,Female,NC,Gabon,6,36,11,0.7222222222222222,1,1,18,17,0
+1705,Ken Hoang,22,Male,CA,Gabon,5,37,7,0.7777777777777778,1,1,18,17,0
+1704,Matty Whitmore,29,Male,CA,Gabon,4,38,7,0.8333333333333334,1,1,18,17,0
+1703,Sugar Kiper,29,Female,NY,Gabon,3,39,0,0.8888888888888888,1,2,18,17,1
+1702,Susie Smith,47,Female,IA,Gabon,2,39,7,0.9444444444444444,1,1,18,17,1
+1701,Bob Crowley,57,Male,ME,Gabon,1,39,2,1.0,1,1,18,17,1
+1816,Carolina Eastwood,26,Female,CA,Tocantins,16,3,7,0.0625,1,1,16,18,0
+1815,Candace Smith,31,Female,CA,Tocantins,15,6,7,0.125,1,1,16,18,0
+1814,Jerry Sims,49,Male,SC,Tocantins,14,9,6,0.1875,1,1,16,18,0
+1813,Sandy Burgin,53,Female,KY,Tocantins,13,12,6,0.25,1,1,16,18,0
+1812,Spencer Duhm,19,Male,FL,Tocantins,12,15,5,0.3125,1,1,16,18,0
+1811,Sydney Wheeler,24,Female,CA,Tocantins,11,18,4,0.375,1,1,16,18,0
+1810,Joe Dowdle,26,Male,TX,Tocantins,10,20,1,0.4375,1,1,16,18,1
+1809,Brendan Synnott,30,Male,CO,Tocantins,9,24,4,0.5,1,1,16,18,0
+1808,Tyson Apostol,29,Male,UT,Tocantins,8,27,5,0.5625,1,3,16,18,0
+1807,Sierra Reed,23,Female,CA,Tocantins,7,30,11,0.625,1,1,16,18,0
+1806,Debbie Beebe,46,Female,AL,Tocantins,6,33,6,0.6875,1,1,16,18,0
+1805,Coach Wade,37,Male,MO,Tocantins,5,36,6,0.75,1,3,16,18,0
+1804,Taj Johnson-George,37,Female,TN,Tocantins,4,37,7,0.8125,1,1,16,18,0
+1803,Erinn Lobdell,26,Female,WI,Tocantins,3,38,5,0.875,1,1,16,18,0
+1802,Stephen Fishbach,29,Male,NY,Tocantins,2,39,1,0.9375,1,2,16,18,1
+1801,J.T. Thomas,24,Male,AL,Tocantins,1,39,0,1.0,1,3,16,18,1
+1920,Marisa Calihan,26,Female,OH,Samoa,20,3,7,0.050000000000000044,1,1,20,19,0
+1919,Mike Borassi,62,Male,CA,Samoa,19,5,0,0.09999999999999998,1,1,20,19,1
+1918,Betsy Bolan,48,Female,NH,Samoa,18,6,7,0.15000000000000002,1,1,20,19,0
+1917,Ben Browning,28,Male,CA,Samoa,17,8,7,0.19999999999999996,1,1,20,19,0
+1916,Yasmin Giles,33,Female,CA,Samoa,16,11,8,0.25,1,1,20,19,0
+1915,Ashley Trainer,22,Female,MN,Samoa,15,14,9,0.30000000000000004,1,1,20,19,0
+1914,Russell Swan,42,Male,PA,Samoa,14,15,0,0.35,1,2,20,19,1
+1913,Liz Kim,33,Female,NY,Samoa,13,18,5,0.4,1,1,20,19,0
+1912,Erik Cardona,28,Male,CA,Samoa,12,21,10,0.44999999999999996,1,1,20,19,0
+1911,Kelly Sharbaugh,25,Female,CA,Samoa,11,24,4,0.5,1,1,20,19,0
+1910,Laura Morett,39,Female,OR,Samoa,10,27,10,0.55,1,2,20,19,0
+1909,John Fincher,25,Male,CA,Samoa,9,30,7,0.6,1,1,20,19,0
+1908,Dave Ball,38,Male,CA,Samoa,8,31,8,0.65,1,1,20,19,0
+1907,Monica Padilla,25,Female,CA,Samoa,7,33,7,0.7,1,2,20,19,0
+1906,Shambo Waters,45,Female,WA,Samoa,6,36,6,0.75,1,1,20,19,0
+1905,Jaison Robinson,28,Male,IL,Samoa,5,37,7,0.8,1,1,20,19,0
+1904,Brett Clouser,23,Male,CA,Samoa,4,38,3,0.85,1,1,20,19,0
+1903,Mick Trimming,33,Male,CA,Samoa,3,39,4,0.9,1,1,20,19,1
+1902,Russell Hantz,36,Male,TX,Samoa,2,39,9,0.95,1,3,20,19,1
+1901,Natalie White,26,Female,AR,Samoa,1,39,8,1.0,1,1,20,19,1
+2020,Sugar Kiper,30,Female,CA,Heroes vs. Villains,20,3,9,0.050000000000000044,2,2,20,20,0
+2019,Stephenie LaGrossa,29,Female,PA,Heroes vs. Villains,19,6,6,0.09999999999999998,3,3,20,20,0
+2018,Randy Bailey,50,Male,TX,Heroes vs. Villains,18,8,9,0.15000000000000002,2,2,20,20,0
+2017,Cirie Fields,39,Female,CT,Heroes vs. Villains,17,11,3,0.19999999999999996,3,4,20,20,0
+2016,Tom Westman,45,Male,NY,Heroes vs. Villains,16,14,8,0.25,2,2,20,20,0
+2015,Tyson Apostol,30,Male,UT,Heroes vs. Villains,15,15,3,0.30000000000000004,2,3,20,20,0
+2014,James Clement,32,Male,LA,Heroes vs. Villains,14,15,7,0.35,3,3,20,20,0
+2013,Rob Mariano,33,Male,FL,Heroes vs. Villains,13,18,5,0.4,3,4,20,20,0
+2012,Coach Wade,38,Male,CA,Heroes vs. Villains,12,21,4,0.44999999999999996,2,3,20,20,0
+2011,Courtney Yates,28,Female,NY,Heroes vs. Villains,11,24,9,0.5,2,2,20,20,0
+2010,J.T. Thomas,25,Male,AL,Heroes vs. Villains,10,27,5,0.55,2,3,20,20,0
+2009,Amanda Kimmel,25,Female,CA,Heroes vs. Villains,9,30,10,0.6,3,3,20,20,0
+2008,Candice Woodcock,26,Female,DC,Heroes vs. Villains,8,31,5,0.65,2,2,20,20,0
+2007,Danielle DiLorenzo,28,Female,CA,Heroes vs. Villains,7,33,4,0.7,2,2,20,20,0
+2006,Rupert Boneham,45,Male,IN,Heroes vs. Villains,6,36,10,0.75,3,4,20,20,0
+2005,Colby Donaldson,35,Male,CA,Heroes vs. Villains,5,37,7,0.8,3,3,20,20,0
+2004,Jerri Manthey,38,Female,CA,Heroes vs. Villains,4,38,9,0.85,3,3,20,20,0
+2003,Russell Hantz,36,Male,TX,Heroes vs. Villains,3,39,5,0.9,2,3,20,20,1
+2002,Parvati Shallow,26,Female,CA,Heroes vs. Villains,2,39,8,0.95,3,3,20,20,1
+2001,Sandra Diaz-Twine,35,Female,NC,Heroes vs. Villains,1,39,3,1.0,2,3,20,20,1
+2120,Wendy DeSmidt-Kohlhoff,48,Female,MT,Nicaragua,20,3,9,0.050000000000000044,1,1,20,21,0
+2119,Shannon Elkins,30,Male,LA,Nicaragua,19,6,7,0.09999999999999998,1,1,20,21,0
+2118,Jimmy Johnson,67,Male,FL,Nicaragua,18,8,8,0.15000000000000002,1,1,20,21,0
+2117,Jimmy Tarantino,48,Male,MA,Nicaragua,17,11,5,0.19999999999999996,1,1,20,21,0
+2116,Tyrone Davis,42,Male,CA,Nicaragua,16,14,6,0.25,1,1,20,21,0
+2115,Kelly Bruno,26,Female,NC,Nicaragua,15,15,8,0.30000000000000004,1,1,20,21,0
+2114,Yve Rojas,41,Female,MO,Nicaragua,14,15,7,0.35,1,1,20,21,0
+2113,Jill Behm,43,Female,PA,Nicaragua,13,18,3,0.4,1,1,20,21,0
+2112,Alina Wilson,23,Female,CA,Nicaragua,12,22,10,0.44999999999999996,1,1,20,21,0
+2111,Marty Piombo,48,Male,CA,Nicaragua,11,24,15,0.5,1,1,20,21,0
+2110,Brenda Lowe,27,Female,FL,Nicaragua,10,27,13,0.55,1,2,20,21,0
+2109,NaOnka Mixon,27,Female,CA,Nicaragua,9,28,3,0.6,1,1,20,21,1
+2108,Kelly Shinn,20,Female,AZ,Nicaragua,8,28,0,0.65,1,1,20,21,1
+2107,Benry Henry,24,Male,CA,Nicaragua,7,32,5,0.7,1,1,20,21,0
+2106,Jane Bright,56,Female,NC,Nicaragua,6,36,11,0.75,1,1,20,21,0
+2105,Dan Lembo,63,Male,NY,Nicaragua,5,37,9,0.8,1,1,20,21,0
+2104,Holly Hoffman,44,Female,SD,Nicaragua,4,38,4,0.85,1,1,20,21,0
+2103,Sash Lenahan,30,Male,NY,Nicaragua,3,39,2,0.9,1,1,20,21,1
+2102,Chase Rice,24,Male,NC,Nicaragua,2,39,1,0.95,1,1,20,21,1
+2101,Fabio Birza,21,Male,CA,Nicaragua,1,39,2,1.0,1,1,20,21,1
+2218,Francesca Hogi,36,Female,DC,Redemption Island,18,3,4,0.05555555555555558,1,2,18,22,0
+2217,Russell Hantz,37,Male,TX,Redemption Island,17,8,8,0.11111111111111116,3,3,18,22,0
+2216,Kristina Kell,46,Female,CA,Redemption Island,16,11,9,0.16666666666666663,1,1,18,22,0
+2215,Krista Klumpp,25,Female,SC,Redemption Island,15,13,6,0.2222222222222222,1,1,18,22,0
+2214,Stephanie Valencia,26,Female,CA,Redemption Island,14,16,8,0.2777777777777778,1,1,18,22,0
+2213,Sarita White,36,Female,CA,Redemption Island,13,18,6,0.33333333333333337,1,1,18,22,0
+2212,David Murphy,31,Male,CA,Redemption Island,12,24,8,0.38888888888888884,1,1,18,22,0
+2211,Julie Wolfe,50,Female,CA,Redemption Island,11,27,6,0.4444444444444444,1,1,18,22,0
+2210,Steve Wright,51,Male,CA,Redemption Island,10,30,9,0.5,1,1,18,22,0
+2209,Ralph Kiser,45,Male,VA,Redemption Island,9,30,10,0.5555555555555556,1,1,18,22,0
+2208,Grant Mattos,29,Male,CA,Redemption Island,8,35,10,0.6111111111111112,1,1,18,22,0
+2207,Matt Elrod,22,Male,TN,Redemption Island,7,21,10,0.6666666666666667,1,1,18,22,1
+2206,Mike Chiesl,31,Male,CA,Redemption Island,6,22,6,0.7222222222222222,1,1,18,22,0
+2205,Andrea Boehlke,21,Female,WI,Redemption Island,5,37,9,0.7777777777777778,1,3,18,22,0
+2204,Ashley Underwood,25,Female,ME,Redemption Island,4,38,3,0.8333333333333334,1,1,18,22,0
+2203,Natalie Tenerelli,19,Female,CA,Redemption Island,3,39,1,0.8888888888888888,1,1,18,22,1
+2202,Phillip Sheppard,52,Male,CA,Redemption Island,2,39,17,0.9444444444444444,1,2,18,22,1
+2201,Rob Mariano,34,Male,FL,Redemption Island,1,39,7,1.0,4,4,18,22,1
+2318,Semhar Tadesse,24,Female,CA,South Pacific,18,3,8,0.05555555555555558,1,1,18,23,0
+2317,Mark Caruso,48,Male,NY,South Pacific,17,8,6,0.11111111111111116,1,1,18,23,0
+2316,Stacey Powell,44,Female,TX,South Pacific,16,11,10,0.16666666666666663,1,1,18,23,0
+2315,Elyse Umemoto,27,Female,NV,South Pacific,15,14,3,0.2222222222222222,1,1,18,23,0
+2314,Mikayla Wingle,22,Female,FL,South Pacific,14,16,4,0.2777777777777778,1,1,18,23,0
+2313,Christine Shields Markoski,39,Female,NY,South Pacific,13,5,4,0.33333333333333337,1,1,18,23,0
+2312,Jim Rice,35,Male,CO,South Pacific,12,24,8,0.38888888888888884,1,1,18,23,0
+2311,Keith Tollefson,26,Male,MN,South Pacific,11,21,12,0.4444444444444444,1,1,18,23,0
+2310,Dawn Meehan,41,Female,UT,South Pacific,10,27,9,0.5,1,2,18,23,0
+2309,Whitney Duncan,27,Female,TN,South Pacific,9,27,7,0.5555555555555556,1,1,18,23,0
+2308,John Cochran,24,Male,DC,South Pacific,8,30,13,0.6111111111111112,1,2,18,23,0
+2307,Edna Ma,35,Female,CA,South Pacific,7,32,15,0.6666666666666667,1,1,18,23,0
+2306,Brandon Hantz,19,Male,TX,South Pacific,6,35,4,0.7222222222222222,1,2,18,23,0
+2305,Rick Nelson,51,Male,UT,South Pacific,5,37,15,0.7777777777777778,1,1,18,23,0
+2304,Ozzy Lusth,30,Male,CA,South Pacific,4,38,17,0.8333333333333334,3,4,18,23,1
+2303,Albert Destrade,26,Male,FL,South Pacific,3,39,1,0.8888888888888888,1,1,18,23,1
+2302,Coach Wade,39,Male,CA,South Pacific,2,39,0,0.9444444444444444,3,3,18,23,1
+2301,Sophie Clarke,22,Female,NY,South Pacific,1,39,5,1.0,1,1,18,23,1
+2418,Kourtney Moon,29,Female,TX,One World,18,3,0,0.05555555555555558,1,1,18,24,1
+2417,Nina Acosta,51,Female,CA,One World,17,5,6,0.11111111111111116,1,1,18,24,0
+2416,Matt Quinlan,33,Male,CA,One World,16,8,7,0.16666666666666663,1,1,18,24,0
+2415,Bill Posley,28,Male,CA,One World,15,11,8,0.2222222222222222,1,1,18,24,0
+2414,Monica Culpepper,41,Female,FL,One World,14,14,5,0.2777777777777778,1,2,18,24,0
+2413,Colton Cumbie,21,Male,AL,One World,13,16,1,0.33333333333333337,1,2,18,24,1
+2412,Jonas Otsuji,37,Male,UT,One World,12,20,10,0.38888888888888884,1,1,18,24,0
+2411,Michael Jefferson,30,Male,WA,One World,11,22,9,0.4444444444444444,1,1,18,24,0
+2410,Jay Byars,25,Male,SC,One World,10,25,5,0.5,1,1,18,24,0
+2409,Leif Manson,27,Male,CA,One World,9,27,5,0.5555555555555556,1,1,18,24,0
+2408,Troyzan Robertson,50,Male,FL,One World,8,30,6,0.6111111111111112,1,2,18,24,0
+2407,Kat Edorsson,22,Female,FL,One World,7,33,7,0.6666666666666667,1,2,18,24,0
+2406,Tarzan Smith,64,Male,TX,One World,6,36,12,0.7222222222222222,1,1,18,24,0
+2405,Alicia Rosa,25,Female,IL,One World,5,37,5,0.7777777777777778,1,1,18,24,0
+2404,Christina Cha,29,Female,CA,One World,4,38,9,0.8333333333333334,1,1,18,24,0
+2403,Chelsea Meissner,26,Female,SC,One World,3,39,4,0.8888888888888888,1,1,18,24,1
+2402,Sabrina Thompson,33,Female,NY,One World,2,39,2,0.9444444444444444,1,1,18,24,1
+2401,Kim Spradlin,29,Female,TX,One World,1,39,3,1.0,1,1,18,24,1
+2518,Zane Knight,28,Male,VA,Philippines,18,3,5,0.05555555555555558,1,1,18,25,0
+2517,Roxy Morris,28,Female,NY,Philippines,17,6,4,0.11111111111111116,1,1,18,25,0
+2516,Angie Layton,20,Female,UT,Philippines,16,8,4,0.16666666666666663,1,1,18,25,0
+2515,Russell Swan,45,Male,PA,Philippines,15,10,4,0.2222222222222222,2,2,18,25,0
+2514,Dana Lambert,32,Female,NC,Philippines,14,12,0,0.2777777777777778,1,1,18,25,1
+2513,Sarah Dawson,28,Female,MD,Philippines,13,13,5,0.33333333333333337,1,1,18,25,0
+2512,Katie Hanson,22,Female,DE,Philippines,12,16,4,0.38888888888888884,1,1,18,25,0
+2511,RC Saint-Amour,27,Female,NY,Philippines,11,19,4,0.4444444444444444,1,1,18,25,0
+2510,Jeff Kent,44,Male,TX,Philippines,10,22,5,0.5,1,1,18,25,0
+2509,Artis Silvester,53,Male,LA,Philippines,9,25,5,0.5555555555555556,1,1,18,25,0
+2508,Pete Yurkowski,24,Male,NJ,Philippines,8,27,9,0.6111111111111112,1,1,18,25,0
+2507,Jonathan Penner,50,Male,CA,Philippines,7,30,14,0.6666666666666667,3,3,18,25,0
+2506,Carter Williams,24,Male,KS,Philippines,6,33,5,0.7222222222222222,1,1,18,25,0
+2505,Abi-Maria Gomes,32,Female,CA,Philippines,5,36,9,0.7777777777777778,1,2,18,25,0
+2504,Malcolm Freberg,25,Male,CA,Philippines,4,38,6,0.8333333333333334,1,3,18,25,0
+2503,Lisa Whelchel,49,Female,TX,Philippines,3,39,0,0.8888888888888888,1,1,18,25,1
+2502,Michael Skupin,50,Male,MI,Philippines,2,39,0,0.9444444444444444,2,2,18,25,1
+2501,Denise Stapley,41,Female,IA,Philippines,1,39,6,1.0,1,1,18,25,1
+2620,Francesca Hogi,38,Female,NY,Caramoan,20,3,6,0.050000000000000044,2,2,20,26,0
+2619,Allie Pohevitz,25,Female,NY,Caramoan,19,5,6,0.09999999999999998,1,1,20,26,0
+2618,Hope Driskill,23,Female,MO,Caramoan,18,7,8,0.15000000000000002,1,1,20,26,0
+2617,Shamar Thomas,27,Male,NY,Caramoan,17,10,8,0.19999999999999996,1,1,20,26,1
+2616,Laura Alexander,23,Female,DC,Caramoan,16,10,6,0.25,1,1,20,26,0
+2615,Brandon Hantz,20,Male,TX,Caramoan,15,13,8,0.30000000000000004,2,2,20,26,0
+2614,Matt Bischoff,38,Male,OH,Caramoan,14,16,4,0.35,1,1,20,26,0
+2613,Julia Landauer,21,Female,CA,Caramoan,13,19,9,0.4,1,1,20,26,0
+2612,Corinne Kaplan,33,Female,CA,Caramoan,12,22,7,0.44999999999999996,2,2,20,26,0
+2611,Michael Snow,44,Male,NY,Caramoan,11,25,10,0.5,1,1,20,26,0
+2610,Phillip Sheppard,54,Male,CA,Caramoan,10,28,5,0.55,2,2,20,26,0
+2609,Malcolm Freberg,25,Male,CA,Caramoan,9,30,11,0.6,2,3,20,26,0
+2608,Reynold Toepfer,30,Male,CA,Caramoan,8,31,9,0.65,1,1,20,26,0
+2607,Andrea Boehlke,23,Female,NY,Caramoan,7,33,13,0.7,2,3,20,26,0
+2606,Brenda Lowe,29,Female,FL,Caramoan,6,36,5,0.75,2,2,20,26,0
+2605,Erik Reichenbach,27,Male,CA,Caramoan,5,36,2,0.8,2,2,20,26,1
+2604,Eddie Fox,23,Male,NJ,Caramoan,4,38,16,0.85,1,1,20,26,0
+2603,Dawn Meehan,42,Female,UT,Caramoan,3,39,2,0.9,2,2,20,26,1
+2602,Sherri Biethman,41,Female,ID,Caramoan,2,39,6,0.95,1,1,20,26,1
+2601,John Cochran,25,Male,DC,Caramoan,1,39,0,1.0,2,2,20,26,1
+2720,Rupert Boneham,49,Male,IN,Blood vs. Water,20,1,0,0.050000000000000044,4,4,20,27,1
+2719,Colton Cumbie,22,Male,AL,Blood vs. Water,19,7,0,0.09999999999999998,2,2,20,27,1
+2718,Rachel Foulger,33,Female,UT,Blood vs. Water,18,6,5,0.15000000000000002,1,1,20,27,0
+2717,Marissa Peterson,21,Female,NC,Blood vs. Water,17,3,10,0.19999999999999996,1,1,20,27,0
+2716,Candice Cody,30,Female,DC,Blood vs. Water,16,1,6,0.25,1,1,20,27,0
+2715,Brad Culpepper,44,Male,FL,Blood vs. Water,15,10,7,0.30000000000000004,1,2,20,27,0
+2714,Kat Edorsson,23,Female,FL,Blood vs. Water,14,16,5,0.35,2,2,20,27,0
+2713,John Cody,30,Male,DC,Blood vs. Water,13,8,8,0.4,1,1,20,27,0
+2712,Laura Boneham,44,Female,IN,Blood vs. Water,12,18,11,0.44999999999999996,1,1,20,27,1
+2711,Aras Baskauskas,31,Male,CA,Blood vs. Water,11,21,7,0.5,2,2,20,27,0
+2710,Vytas Baskauskas,33,Male,CA,Blood vs. Water,10,22,10,0.55,1,2,20,27,0
+2709,Caleb Bankston,26,Male,AL,Blood vs. Water,9,29,4,0.6,1,1,20,27,0
+2708,Katie Collins,25,Female,NY,Blood vs. Water,8,32,4,0.65,1,1,20,27,1
+2707,Hayden Moss,27,Male,TX,Blood vs. Water,7,35,8,0.7,1,1,20,27,0
+2706,Laura Morett,43,Female,OR,Blood vs. Water,6,26,19,0.75,2,2,20,27,1
+2705,Ciera Eastin,24,Female,OR,Blood vs. Water,5,37,14,0.8,1,3,20,27,0
+2704,Tina Wesson,52,Female,NC,Blood vs. Water,4,28,10,0.85,3,3,20,27,1
+2703,Gervase Peterson,43,Male,PA,Blood vs. Water,3,39,6,0.9,2,2,20,27,1
+2702,Monica Culpepper,42,Female,FL,Blood vs. Water,2,39,6,0.95,2,2,20,27,1
+2701,Tyson Apostol,34,Male,UT,Blood vs. Water,1,39,2,1.0,3,3,20,27,1
+2818,David Samson,45,Male,FL,Cagayan,18,3,4,0.05555555555555558,1,1,18,28,0
+2817,Garrett Adelstein,27,Male,CA,Cagayan,17,6,3,0.11111111111111116,1,1,18,28,0
+2816,Brice Johnston,27,Male,PA,Cagayan,16,8,5,0.16666666666666663,1,1,18,28,0
+2815,J'Tia Taylor,31,Female,IL,Cagayan,15,11,7,0.2222222222222222,1,1,18,28,0
+2814,Cliff Robinson,46,Male,NJ,Cagayan,14,14,4,0.2777777777777778,1,1,18,28,0
+2813,Lindsey Ogle,29,Female,IN,Cagayan,13,14,0,0.33333333333333337,1,1,18,28,1
+2812,Alexis Maxwell,21,Female,IL,Cagayan,12,16,8,0.38888888888888884,1,1,18,28,0
+2811,Sarah Lacina,29,Female,IA,Cagayan,11,19,6,0.4444444444444444,1,2,18,28,0
+2810,Morgan McLeod,21,Female,CA,Cagayan,10,22,8,0.5,1,1,18,28,0
+2809,LJ McKanas,34,Male,MA,Cagayan,9,25,8,0.5555555555555556,1,1,18,28,0
+2808,Jeremiah Wood,34,Male,NC,Cagayan,8,28,9,0.6111111111111112,1,1,18,28,0
+2807,Jefra Bland,22,Female,KY,Cagayan,7,30,9,0.6666666666666667,1,1,18,28,0
+2806,Tasha Fox,37,Female,MO,Cagayan,6,33,4,0.7222222222222222,1,2,18,28,0
+2805,Trish Hegarty,48,Female,MA,Cagayan,5,36,5,0.7777777777777778,1,1,18,28,0
+2804,Spencer Bledsoe,21,Male,IL,Cagayan,4,37,8,0.8333333333333334,1,2,18,28,0
+2803,Kass McQuillen,41,Female,CA,Cagayan,3,38,2,0.8888888888888888,1,2,18,28,0
+2802,Woo Hwang,29,Male,CA,Cagayan,2,39,4,0.9444444444444444,1,2,18,28,1
+2801,Tony Vlachos,39,Male,NJ,Cagayan,1,39,5,1.0,1,2,18,28,1
+2918,Nadiya Anderson,28,Female,NJ,San Juan del Sur,18,3,5,0.05555555555555558,1,1,18,29,0
+2917,Val Collins,35,Female,MA,San Juan del Sur,17,6,9,0.11111111111111116,1,1,18,29,0
+2916,John Rocker,39,Male,GA,San Juan del Sur,16,8,5,0.16666666666666663,1,1,18,29,0
+2915,Drew Christy,25,Male,FL,San Juan del Sur,15,10,5,0.2222222222222222,1,1,18,29,0
+2914,Kelley Wentworth,28,Female,WA,San Juan del Sur,14,13,4,0.2777777777777778,1,2,18,29,0
+2913,Dale Wentworth,55,Male,WA,San Juan del Sur,13,15,8,0.33333333333333337,1,1,18,29,0
+2912,Julie McGee,34,Female,GA,San Juan del Sur,12,18,2,0.38888888888888884,1,1,18,29,1
+2911,Josh Canfield,32,Male,NY,San Juan del Sur,11,21,6,0.4444444444444444,1,1,18,29,0
+2910,Jeremy Collins,36,Male,MA,San Juan del Sur,10,24,5,0.5,1,2,18,29,0
+2909,Wes Nale,23,Male,LA,San Juan del Sur,9,26,2,0.5555555555555556,1,1,18,29,0
+2908,Reed Kelly,31,Male,NY,San Juan del Sur,8,29,10,0.6111111111111112,1,1,18,29,0
+2907,Alec Christy,22,Male,FL,San Juan del Sur,7,32,4,0.6666666666666667,1,1,18,29,0
+2906,Jon Misch,26,Male,MI,San Juan del Sur,6,35,8,0.7222222222222222,1,1,18,29,0
+2905,Baylor Wilson,20,Female,TN,San Juan del Sur,5,37,17,0.7777777777777778,1,1,18,29,0
+2904,Keith Nale,53,Male,LA,San Juan del Sur,4,38,16,0.8333333333333334,1,2,18,29,0
+2903,Missy Payne,47,Female,TX,San Juan del Sur,3,39,3,0.8888888888888888,1,1,18,29,1
+2902,Jaclyn Schultz,25,Female,NV,San Juan del Sur,2,39,6,0.9444444444444444,1,1,18,29,1
+2901,Natalie Anderson,28,Female,NJ,San Juan del Sur,1,39,0,1.0,1,1,18,29,1
+3018,So Kim,31,Female,CA,Worlds Apart,18,3,4,0.05555555555555558,1,1,18,30,0
+3017,Vince Sly,32,Male,CA,Worlds Apart,17,6,3,0.11111111111111116,1,1,18,30,0
+3016,Nina Poersch,51,Female,CA,Worlds Apart,16,8,4,0.16666666666666663,1,1,18,30,0
+3015,Lindsey Cascaddan,24,Female,FL,Worlds Apart,15,11,5,0.2222222222222222,1,1,18,30,0
+3014,Max Dawson,37,Male,CA,Worlds Apart,14,14,5,0.2777777777777778,1,1,18,30,0
+3013,Joaquin Souberbielle,27,Male,NY,Worlds Apart,13,16,4,0.33333333333333337,1,1,18,30,0
+3012,Kelly Remington,44,Female,NY,Worlds Apart,12,19,4,0.38888888888888884,1,1,18,30,0
+3011,Hali Ford,25,Female,CA,Worlds Apart,11,22,8,0.4444444444444444,1,2,18,30,0
+3010,Joe Anglim,25,Male,AZ,Worlds Apart,10,24,8,0.5,1,2,18,30,0
+3009,Jenn Brown,22,Female,CA,Worlds Apart,9,27,18,0.5555555555555556,1,1,18,30,0
+3008,Shirin Oskooi,31,Female,CA,Worlds Apart,8,29,7,0.6111111111111112,1,2,18,30,0
+3007,Tyler Fredrickson,33,Male,CA,Worlds Apart,7,32,5,0.6666666666666667,1,1,18,30,0
+3006,Dan Foley,47,Male,ME,Worlds Apart,6,35,9,0.7222222222222222,1,1,18,30,0
+3005,Sierra Dawn Thomas,27,Female,UT,Worlds Apart,5,37,6,0.7777777777777778,1,2,18,30,0
+3004,Rodney Lavoie Jr.,24,Male,MA,Worlds Apart,4,38,5,0.8333333333333334,1,1,18,30,0
+3003,Carolyn Rivera,52,Female,FL,Worlds Apart,3,39,10,0.8888888888888888,1,1,18,30,1
+3002,Will Sims II,41,Male,CA,Worlds Apart,2,39,4,0.9444444444444444,1,1,18,30,1
+3001,Mike Holloway,38,Male,TX,Worlds Apart,1,39,4,1.0,1,1,18,30,1
+3120,Vytas Baskauskas,35,Male,CA,Cambodia,20,3,6,0.050000000000000044,2,2,20,31,0
+3119,Shirin Oskooi,32,Female,CA,Cambodia,19,6,5,0.09999999999999998,2,2,20,31,0
+3118,Peih-Gee Law,37,Female,CA,Cambodia,18,9,4,0.15000000000000002,2,2,20,31,0
+3117,Jeff Varner,49,Male,NC,Cambodia,17,11,4,0.19999999999999996,2,3,20,31,0
+3116,Monica Padilla,31,Female,NY,Cambodia,16,13,3,0.25,2,2,20,31,0
+3115,Terry Deitz,55,Male,CT,Cambodia,15,13,0,0.30000000000000004,2,2,20,31,1
+3114,Woo Hwang,31,Male,CA,Cambodia,14,16,5,0.35,2,2,20,31,0
+3113,Kass McQuillen,42,Female,CA,Cambodia,13,19,6,0.4,2,2,20,31,0
+3112,Andrew Savage,51,Male,CA,Cambodia,12,21,4,0.44999999999999996,2,2,20,31,0
+3111,Kelly Wiglesworth,37,Female,NC,Cambodia,11,24,8,0.5,2,2,20,31,0
+3110,Ciera Eastin,26,Female,OR,Cambodia,10,26,10,0.55,2,3,20,31,0
+3109,Stephen Fishbach,36,Male,NY,Cambodia,9,29,9,0.6,2,2,20,31,0
+3108,Joe Anglim,26,Male,AZ,Cambodia,8,32,8,0.65,2,2,20,31,0
+3107,Abi-Maria Gomes,35,Female,CA,Cambodia,7,35,14,0.7,2,2,20,31,0
+3106,Kimmi Kappenberg,42,Female,TX,Cambodia,6,36,9,0.75,2,2,20,31,0
+3105,Keith Nale,54,Male,LA,Cambodia,5,37,4,0.8,2,2,20,31,0
+3104,Kelley Wentworth,28,Female,WA,Cambodia,4,38,17,0.85,2,2,20,31,0
+3103,Spencer Bledsoe,22,Male,IL,Cambodia,3,39,11,0.9,2,2,20,31,1
+3102,Tasha Fox,38,Female,MO,Cambodia,2,39,8,0.95,2,2,20,31,1
+3101,Jeremy Collins,37,Male,MA,Cambodia,1,39,3,1.0,2,2,20,31,1
+3218,Darnell Hamilton,27,Male,IL,Kaôh Rōng,18,3,7,0.05555555555555558,1,1,18,32,0
+3217,Jennifer Lanzetti,38,Female,UT,Kaôh Rōng,17,6,3,0.11111111111111116,1,1,18,32,0
+3216,Liz Markham,27,Female,NY,Kaôh Rōng,16,8,5,0.16666666666666663,1,1,18,32,0
+3215,Caleb Reynolds,28,Male,KY,Kaôh Rōng,15,9,0,0.2222222222222222,1,2,18,32,1
+3214,Alecia Holden,24,Female,TX,Kaôh Rōng,14,11,8,0.2777777777777778,1,1,18,32,0
+3213,Anna Khait,26,Female,NY,Kaôh Rōng,13,13,5,0.33333333333333337,1,1,18,32,0
+3212,Peter Baggenstos,34,Male,MN,Kaôh Rōng,12,16,7,0.38888888888888884,1,1,18,32,0
+3211,Neal Gottlieb,38,Male,CA,Kaôh Rōng,11,19,0,0.4444444444444444,1,1,18,32,1
+3210,Nick Maiorano,30,Male,CA,Kaôh Rōng,10,22,6,0.5,1,1,18,32,0
+3209,Debbie Wanner,49,Female,PA,Kaôh Rōng,9,24,5,0.5555555555555556,1,2,18,32,0
+3208,Scot Pollard,40,Male,IN,Kaôh Rōng,8,27,7,0.6111111111111112,1,1,18,32,0
+3207,Julia Sokolowski,19,Female,MA,Kaôh Rōng,7,29,7,0.6666666666666667,1,1,18,32,0
+3206,Kyle Jason,31,Male,MI,Kaôh Rōng,6,32,5,0.7222222222222222,1,1,18,32,0
+3205,Joe del Campo,72,Male,FL,Kaôh Rōng,5,34,1,0.7777777777777778,1,1,18,32,1
+3204,Cydney Gillon,23,Female,GA,Kaôh Rōng,4,37,5,0.8333333333333334,1,1,18,32,0
+3203,Tai Trang,51,Male,CA,Kaôh Rōng,3,39,4,0.8888888888888888,1,2,18,32,1
+3202,Aubry Bracco,29,Female,MA,Kaôh Rōng,2,39,8,0.9444444444444444,1,2,18,32,1
+3201,Michele Fitzgerald,24,Female,NJ,Kaôh Rōng,1,39,2,1.0,1,1,18,32,1
+3320,Rachel Ako,37,Female,CA,Millennials vs. Gen X,20,4,5,0.050000000000000044,1,1,20,33,0
+3319,Mari Takahashi,31,Female,CA,Millennials vs. Gen X,19,7,7,0.09999999999999998,1,1,20,33,0
+3318,Paul Wachter,52,Male,FL,Millennials vs. Gen X,18,10,6,0.15000000000000002,1,1,20,33,0
+3317,Lucy Huang,42,Female,CA,Millennials vs. Gen X,17,12,2,0.19999999999999996,1,1,20,33,0
+3316,CeCe Taylor,39,Female,CA,Millennials vs. Gen X,16,15,11,0.25,1,1,20,33,0
+3315,Figgy Figueroa,23,Female,TN,Millennials vs. Gen X,15,18,6,0.30000000000000004,1,1,20,33,0
+3314,Michaela Bradshaw,25,Female,TX,Millennials vs. Gen X,14,20,4,0.35,1,2,20,33,0
+3313,Michelle Schubert,28,Female,WA,Millennials vs. Gen X,13,23,10,0.4,1,1,20,33,0
+3312,Taylor Stocker,24,Male,ID,Millennials vs. Gen X,12,25,7,0.44999999999999996,1,1,20,33,0
+3311,Chris Hammons,38,Male,OK,Millennials vs. Gen X,11,28,7,0.5,1,1,20,33,0
+3310,Jessica Lewis,37,Female,NY,Millennials vs. Gen X,10,30,9,0.55,1,1,20,33,1
+3309,Zeke Smith,28,Male,NY,Millennials vs. Gen X,9,33,14,0.6,1,2,20,33,0
+3308,Will Wahl,18,Male,NJ,Millennials vs. Gen X,8,34,6,0.65,1,1,20,33,0
+3307,Sunday Burquest,45,Female,MN,Millennials vs. Gen X,7,35,5,0.7,1,1,20,33,0
+3306,Jay Starrett,27,Male,FL,Millennials vs. Gen X,6,36,10,0.75,1,1,20,33,0
+3305,Bret LaBelle,42,Male,MA,Millennials vs. Gen X,5,37,5,0.8,1,1,20,33,0
+3304,David Wright,42,Male,CA,Millennials vs. Gen X,4,38,10,0.85,1,1,20,33,0
+3303,Hannah Shapiro,24,Female,CA,Millennials vs. Gen X,3,39,13,0.9,1,1,20,33,1
+3302,Ken McNickle,33,Male,CO,Millennials vs. Gen X,2,39,3,0.95,1,1,20,33,1
+3301,Adam Klein,25,Male,CA,Millennials vs. Gen X,1,39,6,1.0,1,1,20,33,1
+3420,Ciera Eastin,27,Female,OR,Game Changers,20,3,9,0.050000000000000044,3,3,20,34,0
+3419,Tony Vlachos,42,Male,NJ,Game Changers,19,6,7,0.09999999999999998,2,2,20,34,0
+3418,Caleb Reynolds,28,Male,KY,Game Changers,18,9,5,0.15000000000000002,2,2,20,34,0
+3417,Malcolm Freberg,29,Male,CA,Game Changers,17,11,5,0.19999999999999996,3,3,20,34,0
+3416,J.T. Thomas,31,Male,AL,Game Changers,16,13,3,0.25,3,3,20,34,0
+3415,Sandra Diaz-Twine,41,Female,NC,Game Changers,15,16,5,0.30000000000000004,3,3,20,34,0
+3414,Jeff Varner,50,Male,NC,Game Changers,14,18,6,0.35,3,3,20,34,0
+3413,Hali Ford,26,Female,TN,Game Changers,13,21,8,0.4,2,2,20,34,0
+3412,Ozzy Lusth,34,Male,CA,Game Changers,12,24,7,0.44999999999999996,4,4,20,34,0
+3411,Debbie Wanner,51,Female,PA,Game Changers,11,26,6,0.5,2,2,20,34,0
+3410,Zeke Smith,28,Male,NY,Game Changers,10,29,11,0.55,2,2,20,34,0
+3409,Sierra Dawn Thomas,29,Female,UT,Game Changers,9,32,15,0.6,2,2,20,34,0
+3408,Andrea Boehlke,27,Female,NY,Game Changers,8,33,14,0.65,3,3,20,34,0
+3407,Michaela Bradshaw,25,Female,TX,Game Changers,7,35,11,0.7,2,2,20,34,0
+3406,Cirie Fields,45,Female,CT,Game Changers,6,36,0,0.75,4,4,20,34,1
+3405,Aubry Bracco,30,Female,MA,Game Changers,5,37,9,0.8,2,2,20,34,0
+3404,Tai Trang,52,Male,CA,Game Changers,4,38,12,0.85,2,2,20,34,0
+3403,Troyzan Robertson,54,Male,FL,Game Changers,3,39,2,0.9,2,2,20,34,1
+3402,Brad Culpepper,47,Male,FL,Game Changers,2,39,2,0.95,2,2,20,34,1
+3401,Sarah Lacina,32,Female,IA,Game Changers,1,39,3,1.0,2,2,20,34,1
+3518,Katrina Radke,46,Female,MN,Heroes vs. Healers vs. Hustlers,18,3,5,0.05555555555555558,1,1,18,35,0
+3517,Simone Nguyen,25,Female,NY,Heroes vs. Healers vs. Hustlers,17,6,5,0.11111111111111116,1,1,18,35,0
+3516,Patrick Bolton,24,Male,AL,Heroes vs. Healers vs. Hustlers,16,8,5,0.16666666666666663,1,1,18,35,0
+3515,Alan Ball,32,Male,TX,Heroes vs. Healers vs. Hustlers,15,11,2,0.2222222222222222,1,1,18,35,0
+3514,Roark Luskin,27,Female,CA,Heroes vs. Healers vs. Hustlers,14,14,3,0.2777777777777778,1,1,18,35,0
+3513,Ali Elliott,24,Female,CA,Heroes vs. Healers vs. Hustlers,13,16,3,0.33333333333333337,1,1,18,35,0
+3512,Jessica Johnston,29,Female,KY,Heroes vs. Healers vs. Hustlers,12,19,7,0.38888888888888884,1,1,18,35,0
+3511,Desi Williams,27,Female,VA,Heroes vs. Healers vs. Hustlers,11,21,11,0.4444444444444444,1,1,18,35,0
+3510,Cole Medders,24,Male,AR,Heroes vs. Healers vs. Hustlers,10,24,7,0.5,1,1,18,35,0
+3509,JP Hilsabeck,28,Male,CA,Heroes vs. Healers vs. Hustlers,9,27,6,0.5555555555555556,1,1,18,35,0
+3508,Joe Mena,34,Male,CT,Heroes vs. Healers vs. Hustlers,8,30,12,0.6111111111111112,1,1,18,35,0
+3507,Lauren Rimmer,35,Female,NC,Heroes vs. Healers vs. Hustlers,7,33,3,0.6666666666666667,1,1,18,35,0
+3506,Ashley Nolan,26,Female,FL,Heroes vs. Healers vs. Hustlers,6,36,8,0.7222222222222222,1,1,18,35,0
+3505,Mike Zahalsky,43,Male,FL,Heroes vs. Healers vs. Hustlers,5,37,9,0.7777777777777778,1,1,18,35,0
+3504,Devon Pinto,23,Male,CA,Heroes vs. Healers vs. Hustlers,4,38,2,0.8333333333333334,1,1,18,35,1
+3503,Ryan Ulrich,23,Male,NJ,Heroes vs. Healers vs. Hustlers,3,39,2,0.8888888888888888,1,1,18,35,1
+3502,Chrissy Hofbeck,46,Female,NJ,Heroes vs. Healers vs. Hustlers,2,39,7,0.9444444444444444,1,1,18,35,1
+3501,Ben Driebergen,34,Male,ID,Heroes vs. Healers vs. Hustlers,1,39,11,1.0,1,1,18,35,1
+3620,Stephanie Gonzalez,26,Female,FL,Ghost Island,20,3,8,0.050000000000000044,1,1,20,36,0
+3619,Jacob Derwin,22,Male,NY,Ghost Island,19,6,5,0.09999999999999998,1,1,20,36,0
+3618,Morgan Ricke,29,Female,FL,Ghost Island,18,9,4,0.15000000000000002,1,1,20,36,0
+3617,Brendan Shapiro,41,Male,VA,Ghost Island,17,12,5,0.19999999999999996,1,1,20,36,0
+3616,Stephanie Johnson,34,Female,IL,Ghost Island,16,14,7,0.25,1,1,20,36,0
+3615,James Lim,24,Male,NY,Ghost Island,15,17,6,0.30000000000000004,1,1,20,36,0
+3614,Bradley Kleihege,26,Male,CA,Ghost Island,14,19,8,0.35,1,1,20,36,0
+3613,Chris Noble,27,Male,NY,Ghost Island,13,22,10,0.4,1,1,20,36,0
+3612,Libby Vincek,24,Female,TX,Ghost Island,12,25,8,0.44999999999999996,1,1,20,36,0
+3611,Desiree Afuye,21,Female,NY,Ghost Island,11,27,10,0.5,1,1,20,36,0
+3610,Jenna Bowman,23,Female,CA,Ghost Island,10,29,3,0.55,1,1,20,36,0
+3609,Michael Yerger,18,Male,CA,Ghost Island,9,29,15,0.6,1,1,20,36,0
+3608,Chelsea Townsend,25,Female,CA,Ghost Island,8,32,5,0.65,1,1,20,36,0
+3607,Kellyn Bechtold,31,Female,CO,Ghost Island,7,35,8,0.7,1,1,20,36,0
+3606,Sebastian Noel,22,Male,FL,Ghost Island,6,36,5,0.75,1,1,20,36,0
+3605,Donathan Hurley,26,Male,KY,Ghost Island,5,37,11,0.8,1,1,20,36,0
+3604,Angela Perkins,42,Female,OH,Ghost Island,4,38,3,0.85,1,1,20,36,1
+3603,Laurel Johnson,29,Female,MN,Ghost Island,3,39,3,0.9,1,1,20,36,1
+3602,Domenick Abbate,38,Male,NY,Ghost Island,2,39,2,0.95,1,1,20,36,1
+3601,Wendell Holland,33,Male,PA,Ghost Island,1,39,5,1.0,1,1,20,36,1
+3720,Pat Cusack,40,Male,NY,David vs. Goliath,20,3,0,0.050000000000000044,1,1,20,37,1
+3719,Jessica Peet,19,Female,FL,David vs. Goliath,19,6,5,0.09999999999999998,1,1,20,37,0
+3718,Jeremy Crawford,40,Male,NY,David vs. Goliath,18,9,9,0.15000000000000002,1,1,20,37,0
+3717,Bi Nguyen,28,Female,TX,David vs. Goliath,17,10,0,0.19999999999999996,1,1,20,37,1
+3716,Natalia Azoqa,25,Female,CA,David vs. Goliath,16,11,3,0.25,1,1,20,37,0
+3715,Natalie Cole,57,Female,CA,David vs. Goliath,15,15,4,0.30000000000000004,1,1,20,37,0
+3714,Lyrsa Torres,36,Female,MA,David vs. Goliath,14,17,9,0.35,1,1,20,37,0
+3713,Elizabeth Olson,31,Female,TX,David vs. Goliath,13,20,13,0.4,1,1,20,37,0
+3712,John Hennigan,38,Male,CA,David vs. Goliath,12,22,3,0.44999999999999996,1,1,20,37,0
+3711,Dan Rengering,27,Male,FL,David vs. Goliath,11,25,6,0.5,1,1,20,37,0
+3710,Alec Merlino,24,Male,CA,David vs. Goliath,10,28,9,0.55,1,1,20,37,0
+3709,Carl Boudreaux,41,Male,TX,David vs. Goliath,9,30,6,0.6,1,1,20,37,0
+3708,Gabby Pascuzzi,25,Female,CO,David vs. Goliath,8,32,2,0.65,1,1,20,37,0
+3707,Christian Hubicki,32,Male,FL,David vs. Goliath,7,35,18,0.7,1,1,20,37,0
+3706,Davie Rickenbacker,30,Male,GA,David vs. Goliath,6,36,7,0.75,1,1,20,37,0
+3705,Alison Raybould,28,Female,NC,David vs. Goliath,5,37,13,0.8,1,1,20,37,0
+3704,Kara Kay,30,Female,CA,David vs. Goliath,4,38,0,0.85,1,1,20,37,1
+3703,Angelina Keeley,28,Female,CA,David vs. Goliath,3,39,6,0.9,1,1,20,37,1
+3702,Mike White,47,Male,CA,David vs. Goliath,2,39,1,0.95,1,1,20,37,1
+3701,Nick Wilson,27,Male,KY,David vs. Goliath,1,39,0,1.0,1,1,20,37,1
